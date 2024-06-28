@@ -2,6 +2,9 @@
  Link for Dataset- https://www.kaggle.com/datasets/siva543/hypertension-data
 
 ![hyimage](https://github.com/niti-shaagrawal/hypertention_analysis/assets/152295238/b84de02e-94ab-4591-b9df-b9f4dc940add)
+
+ ## Tools used- 
+ Kaggle, Excel, MySQL, PowerBi
  
 ## About the dataset:
 
